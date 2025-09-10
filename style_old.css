@@ -1,0 +1,18 @@
+body { 
+    padding-top: 70px; 
+}
+
+html { scroll-padding-top: 70px; }
+
+img {
+    float: left;
+    border-radius: 50%;
+  }
+
+p {
+    overflow: hidden;
+}
+
+#last_card{
+    margin-bottom: 20px;
+}
